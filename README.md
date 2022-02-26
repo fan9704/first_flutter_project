@@ -1,5 +1,6 @@
 # first_flutter_project
 
+[Refer this article](https://ithelp.ithome.com.tw/articles/10216804)
 A new Flutter project.
 
 ## Getting Started
